@@ -45,6 +45,18 @@ See the robot moving in real life!
 
 ---
 
+## 🧩 How to Assemble LeRobot OJW
+
+Ready to assemble your own LeRobot?
+
+👉 **[Watch the Full Step-by-Step Assembly Video on YouTube](https://youtu.be/AQsma9fiuLw?si=pPNlVMTZPPUCAD57)**
+
+<a href="https://youtu.be/AQsma9fiuLw?si=pPNlVMTZPPUCAD57" target="_blank">
+  <img src="https://img.youtube.com/vi/AQsma9fiuLw/0.jpg" alt="Assembly Video" style="width:50%;">
+</a>
+
+---
+
 ## 🛒 Purchase Links
 
 ### 🔌 Controller – OpenRB-150  
@@ -76,7 +88,3 @@ See the robot moving in real life!
 - 🔧 **Modular & Expandable**: Build, test, and evolve your robot  
 - 📚 **Perfect for Education, Research, and Prototyping**  
 - 🛠️ **All official parts** – No knockoffs, just reliability
-
----
-
-Let me know if you’d like a **Korean version**, or want to include **setup instructions** or **wiring diagrams** next!
