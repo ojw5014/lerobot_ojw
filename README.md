@@ -1,4 +1,7 @@
-<img src="https://github.com/user-attachments/assets/5ca12ddb-fc30-4c0b-b98b-fb81371a31d3" style="width:30%;" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c98d9d3b-b4a6-40d1-a690-efa8bb9104b1" alt="New image" width="65%" style="margin-right: 10px;" />
+  <img src="https://github.com/user-attachments/assets/5ca12ddb-fc30-4c0b-b98b-fb81371a31d3" alt="Open-Snake preview" width="25%" />
+</p>
 
 # 🤖 Build Your Own Powerful Robot – Affordable & Modular
 
